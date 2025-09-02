@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knachinen)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=transparent&hide_rank=true&rank_icon=github)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knachinen)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knachinen)](https://github.com/anuraghazra/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knachinen)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=transparent&hide_rank=true&rank_icon=github)
 
 ---
 
@@ -21,14 +22,13 @@ Env.
 Favourite App.  
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred)
 
-
----
-
+--- 
 
 - 👋 Hi, I’m @knachinen
 - 👀 I’m interested in ... many things.
 - 🌱 I’m currently learning 'react native'.
 - 💞️ I’m looking to collaborate on anything.
+
 
 <!---
 knachinen/knachinen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
