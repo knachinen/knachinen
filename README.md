@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knachinen)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=transparent)
+
 - 👋 Hi, I’m @knachinen
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -9,4 +11,6 @@ knachinen/knachinen is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
 <img src="https://github.com/knachinen/knachinen/blob/output/github-contribution-grid-snake.svg"/>
+--->
